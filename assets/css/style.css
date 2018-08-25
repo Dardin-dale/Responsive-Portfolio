@@ -258,10 +258,6 @@ form {
     text-align: center;
   }
 
-  nav a {
-    /* float: none; */
-  }
-
   .name {
     text-align: center;
     display: block;
