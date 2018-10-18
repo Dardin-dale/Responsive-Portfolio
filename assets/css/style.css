@@ -209,6 +209,11 @@ form {
     background-image: url(../images/RPSLS.png);
     background-size: 100%;
 }
+
+.beetle {
+    background-image: url(../images/rhino.jpg);
+    background-size: 100%;
+}
     
 /* controls picture in index */
 #me {
