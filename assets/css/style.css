@@ -214,6 +214,11 @@ form {
     background-image: url(../images/rhino.jpg);
     background-size: 100%;
 }
+
+.burger {
+    background-image: url(../images/burger.jpg);
+    background-size: 100%;
+}
     
 /* controls picture in index */
 #me {
