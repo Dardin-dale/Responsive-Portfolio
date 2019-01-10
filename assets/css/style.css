@@ -175,6 +175,7 @@ form {
 .overlay {
     width: 100%;
     text-align: center;
+    align-content: center;
     display: inline-block;
     position: absolute;
     bottom: 10px;
@@ -217,6 +218,11 @@ form {
 
 .burger {
     background-image: url(../images/burger.jpg);
+    background-size: 100%;
+}
+
+.clicky {
+    background-image: url(../images/Clicky.png);
     background-size: 100%;
 }
     
